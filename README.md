@@ -1,2 +1,5 @@
 sdfsdfasdfsdafs
-f# gitskil new  and l
+
+f# gits
+f# new  gits and kill
+
